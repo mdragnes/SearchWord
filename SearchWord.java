@@ -40,8 +40,7 @@ public class SearchWord {
             }
         }
         else {
-            System.out.println("Please enter at least two arguments. Only two arguments 
-            are being processed.");
+            System.out.println("Please enter two and only two arguments.");
         }
     }
 }
